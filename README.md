@@ -22,10 +22,11 @@ Using R for data processing
 ## This project contains two files:
 MarketWatch.ipynb: This is the main file where you will be performing your work on the project.
 
-gta_data.csv: The project dataset.
+train.csv: The project dataset.
 
 ## Technologies Used
 R
+
 Excel
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
